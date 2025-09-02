@@ -25,5 +25,13 @@
     <td><a href="https://x.com/VishalCsx/status/1961663407259631841?t=owOGbVVimwaVO9EMrMcysQ&s=08">Tweet</a></td>
     <td><a href="https://www.linkedin.com/posts/vishal-singh-779054260_rustlang-learninginpublic-100projectsofrust-activity-7367431567259938817-fk2X?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEAUNE0B7Yb2FT-U84t1Z02LpKinmRH99Jw">LinkedIn</a></td>
   </tr>
+  <tr>
+    <td>03</td>
+    <td>Simple CLI Calculator</td>
+  <td>You the code the simple operation here : ADD,SUBTRaCT,MULTIPLY,DIVIDE</td>
+    <td><a href="./project02">Code</a></td>
+    <td><a href="https://x.com/VishalCsx/status/1961663407259631841?t=owOGbVVimwaVO9EMrMcysQ&s=08">Tweet</a></td>
+    <td><a href="https://www.linkedin.com/posts/vishal-singh-779054260_rustlang-learninginpublic-100projectsofrust-activity-7367431567259938817-fk2X?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEAUNE0B7Yb2FT-U84t1Z02LpKinmRH99Jw">LinkedIn</a></td>
+  </tr>
 </table>
 </div>
